@@ -195,8 +195,6 @@ The Flutter application allows users to input student data through a form with d
    ```bash
    flutter pub get
   ```
-  
-3. Run the App:
   ```bash
   flutter run
   ```
