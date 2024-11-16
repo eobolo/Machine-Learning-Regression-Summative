@@ -190,6 +190,9 @@ The Flutter application allows users to input student data through a form with d
 ### Installation & Running the App
 
 1. Clone the repository.
+    ```bash
+    git clone https://github.com/eobolo/Machine-Learning-Regression-Summative.git
+    ```
 
 2. Install dependencies by running:
     ```bash
