@@ -192,9 +192,9 @@ The Flutter application allows users to input student data through a form with d
 1. Clone the repository.
 
 2. Install dependencies by running:
-   ```bash
-   flutter pub get
-  ```
-  ```bash
-  flutter run
-  ```
+    ```bash
+    flutter pub get
+    ```
+    ```bash
+    flutter run
+    ```
