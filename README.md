@@ -156,6 +156,11 @@ The metadata file (`metadata.json`) contains additional information about the co
 - Pydantic
 - Scikit-learn
 
+## Navigate to the API directory
+```bash
+cd summative/API
+```
+
 ### Install Dependencies:
 ```bash
 pip install -r requirements.txt
@@ -198,7 +203,7 @@ The Flutter application allows users to input student data through a form with d
     ```
 2. Navigate to the flutter app directory.
     ```bash
-    cd FlutterApp/student_math_final_grade_prediction_app
+    cd summative/FlutterApp/student_math_final_grade_prediction_app
     ```
 
 3. Install dependencies by running:
