@@ -196,8 +196,12 @@ The Flutter application allows users to input student data through a form with d
     ```bash
     git clone https://github.com/eobolo/Machine-Learning-Regression-Summative.git
     ```
+2. Navigate to the flutter app directory.
+    ```bash
+    cd FlutterApp/student_math_final_grade_prediction_app
+    ```
 
-2. Install dependencies by running:
+3. Install dependencies by running:
     ```bash
     flutter pub get
     ```
