@@ -12,6 +12,9 @@ The objective of this project is to predict student final math grades (G3) using
 - **Dataset**: [student-mat.csv](https://www.kaggle.com/code/janiobachmann/predicting-grades-for-the-school-year/)
 - **Source**: Kaggle
 
+### Demo Video
+- **Youtube**: [student-grade-prediction-video](https://youtu.be/B4OS_Tp-6kg)
+
 ### Citation
 This dataset is provided by **Janio Martinez Bachmann**, a Kaggle Grandmaster and Business Intelligence Analyst at Roche. The dataset can be accessed on Kaggle and used for educational and predictive analysis purposes.
 
