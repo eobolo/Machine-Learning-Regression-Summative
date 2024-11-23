@@ -23,6 +23,12 @@ This dataset is provided by **Janio Martinez Bachmann**, a Kaggle Grandmaster an
   - Barcelona, Catalonia, Spain
   - BI Analyst at Roche
 
+### Installation Before Running Sections of the Project
+
+- **Clone the repository**.
+    ```bash
+    git clone https://github.com/eobolo/Machine-Learning-Regression-Summative.git
+    ```
 ## API Overview
 This FastAPI-based web service predicts the final math grade (G3) of students using various academic, demographic, and social factors. The model takes into account data such as the student's family background, study habits, and social life, providing a prediction that helps educators and parents identify students who might need additional support.
 
@@ -197,16 +203,12 @@ The Flutter application allows users to input student data through a form with d
 
 ### Installation & Running the App
 
-1. Clone the repository.
-    ```bash
-    git clone https://github.com/eobolo/Machine-Learning-Regression-Summative.git
-    ```
-2. Navigate to the flutter app directory.
+1. Navigate to the flutter app directory.
     ```bash
     cd summative/FlutterApp/student_math_final_grade_prediction_app
     ```
 
-3. Install dependencies by running:
+2. Install dependencies by running:
     ```bash
     flutter pub get
     ```
