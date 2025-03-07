@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-Model%20%26%20API-green.svg) ![FastAPI](https://img.shields.io/badge/FastAPI-Endpoint-blue.svg) ![Render](https://img.shields.io/badge/Render-Deployment-purple.svg) ![Flutter](https://img.shields.io/badge/Mobile%20App-API%20Client-orange.svg). ![Contributors](https://img.shields.io/badge/contributors-1-yellow.svg)
+
 # Educational AI Project: Student Final Math Grade Prediction
 
 ## Mission
